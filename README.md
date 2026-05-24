@@ -201,18 +201,6 @@ Structured Security Report
 
 ---
 
-# 📁 Example Project Structure
-
-```bash
-WP-Audit/
-├── wp_audit.py
-├── reports/
-│   └── report.json
-├── requirements.txt
-└── README.md
-```
-
----
 
 # 🎯 Designed For
 
